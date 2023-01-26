@@ -13,11 +13,7 @@ Open your terminal and install required packages with
 ```sh
 npm install
 ```
-or 
-```sh
-npm i
-```
-After installation finishes run `node .` or `node index.js` in terminal to start the bot and fill out the values
+After installation finishes run `node index.js` in terminal to start the bot and fill out the values
 ## 📸 Screenshots
 ![Preview](https://user-images.githubusercontent.com/89854127/214914740-7fda740f-c735-4e85-9f4c-9680725da27b.png)
 ## ❤️ Donations
