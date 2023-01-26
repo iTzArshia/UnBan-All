@@ -5,7 +5,7 @@
     "prompt": "^1.3.0"
   },
   "name": "unban-all",
-  "description": "Clear your Discord server ban list without spamming the API! (useful for nucked servers)",
+  "description": "Clear your Discord server ban list without spamming the API! (useful for nuked servers)",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/iTzArshia/UnBan-All",
