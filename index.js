@@ -9,11 +9,13 @@ prompt.start();
 const schema = {
     properties: {
         guildId: {
-            message: chalk.blueBright('Enter your Server ID'),
+            description: chalk.blueBright('Enter your Server ID'),
+            message: chalk.redBright('Server ID is required'),
             required: true
         },
         botToken: {
-            message: chalk.blueBright('Enter your Bot Token'),
+            description: chalk.blueBright('Enter your Bot Token'),
+            message: chalk.redBright('Bot Token is required'),
             required: true
         }
     }
@@ -64,7 +66,8 @@ prompt.get(schema, function (err, result) {
                 const schema = {
                     properties: {
                         boolean: {
-                            message: chalk.yellow(`Are you sure you want to unban ${bannedMembersCollection.size} users from "${guild.name}"? (Enter "Yes" or "Y" to start and anything else to cancel)`),
+                            description: chalk.yellow(`Are you sure you want to unban ${bannedMembersCollection.size} users from "${guild.name}"? (Enter "Yes" or "Y" to start and anything else to cancel)`),
+                            message: chalk.redBright('You have to enter "Yes" or "Y"to start and anything else to cancel'),
                             required: true
                         }
                     }
