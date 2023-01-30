@@ -1,5 +1,7 @@
 <h1 align="center">UnBan All</h1>
 
+[![GitHub stars](https://img.shields.io/github/stars/iTzArshia/UnBan-All.svg)](https://github.com/iTzArshia/UnBan-All/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/iTzArshia/UnBan-All.svg)](https://github.com/iTzArshia/UnBan-All/network)
 [![iTz Club Discord](https://badgen.net/discord/members/8hr9CRqmfc)](https://discord.gg/8hr9CRqmfc)
 [![iTz Development Discord](https://badgen.net/discord/members/nKrBshQvcK)](https://discord.gg/nKrBshQvcK)
 
