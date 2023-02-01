@@ -152,6 +152,7 @@ prompt.get(schema, function (err, result) {
 
     client.login(result.botToken).catch(() => {
         console.log(chalk.redBright('I can\'t login into your bot recheck your token!'));
+        console.log(chalk.bold.white('Goodbye and don\'t forget to star the repository!'));
     });
 
 });
