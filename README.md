@@ -1,9 +1,11 @@
 <h1 align="center">UnBan All</h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/iTzArshia/UnBan-All.svg)](https://github.com/iTzArshia/UnBan-All/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/iTzArshia/UnBan-All.svg)](https://github.com/iTzArshia/UnBan-All/network)
-[![iTz Club Discord](https://badgen.net/discord/members/8hr9CRqmfc)](https://discord.gg/8hr9CRqmfc)
-[![iTz Development Discord](https://badgen.net/discord/members/nKrBshQvcK)](https://discord.gg/nKrBshQvcK)
+<div align="center">
+    <a href="https://github.com/iTzArshia/UnBan-All/stargazers"> <img src="https://img.shields.io/github/stars/iTzArshia/UnBan-All.svg" alt="GitHub stars"/> </a>
+    <a href="https://github.com/iTzArshia/UnBan-All/network"> <img src="https://img.shields.io/github/forks/iTzArshia/UnBan-All.svg" alt="GitHub forks"/> </a>
+    <a href="https://discord.gg/nKrBshQvcK"> <img src="https://badgen.net/discord/members/nKrBshQvcK" alt="iTz Development Discord"/> </a>
+    <a href="https://discord.gg/8hr9CRqmfc"> <img src="https://badgen.net/discord/members/8hr9CRqmfc" alt="iTz Club Discord"/> </a>
+</div>
 
 UnBan All is the orginal Discord bot written for **[JavaScript](https://www.javascript.com/)**, using the **[Discord.js](discord.js.org/)** library. It clears your Discord server's ban list without spamming the API (useful for nuked servers) which you can see the preview in **[Screenshot](https://github.com/iTzArshia/iTz-DJ/edit/main/README.md#-screenshot)**!
 
