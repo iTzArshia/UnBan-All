@@ -26,7 +26,7 @@ prompt.get(schema, function (err, result) {
     const client = new Discord.Client({
         intents: [
             Discord.GatewayIntentBits.Guilds,
-            Discord.GatewayIntentBits.GuildBans,
+            Discord.GatewayIntentBits.GuildModeration,
         ]
     });
 
