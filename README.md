@@ -7,7 +7,7 @@
     <a href="https://discord.gg/8hr9CRqmfc"> <img src="https://badgen.net/discord/members/8hr9CRqmfc" alt="iTz Club Discord"/> </a>
 </div>
 
-UnBan All is the orginal Discord bot written for **[JavaScript](https://www.javascript.com/)**, using the **[Discord.js](discord.js.org/)** library. It clears your Discord server's ban list without spamming the API (useful for nuked servers) which you can see the preview in **[Screenshot](https://github.com/iTzArshia/iTz-DJ/edit/main/README.md#-screenshot)**!
+UnBan All is the orginal Discord bot written for **[JavaScript](https://www.javascript.com/)**, using the **[Discord.js](discord.js.org/)** library. It clears your Discord server's ban list without spamming the API (useful for nuked servers) which you can see the preview in **[Screenshot](https://github.com/iTzArshia/UnBan-All#-screenshot)**!
 
 ## 🚧 Requirements
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
