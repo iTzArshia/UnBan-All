@@ -18,7 +18,7 @@ Open your terminal and install required packages with
 npm install
 ```
 After installation finishes run `node index.js` in terminal to start the bot and fill out the values
-## 📸 Screenshots
+## 📸 Screenshot
 ![Preview](https://user-images.githubusercontent.com/89854127/214914740-7fda740f-c735-4e85-9f4c-9680725da27b.png)
 ## ❤️ Donations
 You can **[support](https://reymit.ir/itz_arshia)** me by donating if you like the project!
